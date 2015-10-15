@@ -1,0 +1,9 @@
+*~
+.map
+build
+*.d
+*.o
+*.elf
+*.nds
+*.pyc
+*.swp
